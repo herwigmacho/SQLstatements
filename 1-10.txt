@@ -6,3 +6,6 @@ select * from emps
 
 --3
 kenn mi ned aus
+
+--4
+do a ned
