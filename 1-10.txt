@@ -3,3 +3,6 @@ select * from depts
 
 --2
 select * from emps
+
+--3
+kenn mi ned aus
